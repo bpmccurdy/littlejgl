@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" 
+<!-- http://bpmccurdy.github.com/littlejgl/examples/2dspriteworld -->
+        codebase="http://bpmccurdy.github.com/littlejgl/examples/randommap/"
+        href="randommap.jnlp">
+    <information>
+        <title>Random Map</title>
+        <vendor>Ben McCurdy</vendor>
+    </information>
+    <resources>
+        <jar href="randommap.jar" main="true" />
+    </resources>
+    <application-desc
+         name="Random Map"
+         main-class="n3b_game.GameWindowLauncher">
+     </application-desc>
+</jnlp>
