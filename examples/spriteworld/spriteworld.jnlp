@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" 
+<!-- http://bpmccurdy.github.com/littlejgl/examples/2dspriteworld -->
+        codebase="http://bpmccurdy.github.com/littlejgl/examples/spriteworld/"
+        href="spriteworld.jnlp">
+    <information>
+        <title>Sprite World</title>
+        <vendor>Ben McCurdy</vendor>
+    </information>
+    <resources>
+        <jar href="spriteworld.jar" main="true" />
+    </resources>
+    <application-desc
+         name="Sprite World"
+         main-class="n3b_gametemplate.client.MainWindow">
+     </application-desc>
+</jnlp>
