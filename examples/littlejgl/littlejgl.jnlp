@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" 
+        codebase="http://bpmccurdy.github.com/littlejgl/examples/littlejgl/"
+        href="littlejgl.jnlp">
+    <information>
+        <title>littlejgl</title>
+        <vendor>Ben McCurdy</vendor>
+    </information>
+    <resources>
+        <jar href="littlejgl.jar" main="true" />
+    </resources>
+    <application-desc
+         name="littljgl"
+         main-class="littlejgl.example.GameWindowLauncher">
+     </application-desc>
+</jnlp>

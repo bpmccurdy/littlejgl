@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jnlp spec="1.0+" 
 <!-- http://bpmccurdy.github.com/littlejgl/examples/2dspriteworld -->
-        codebase="http://bpmccurdy.github.com/littlejgl/examples/randommap/"
+        codebase="http://bpmccurdy.github.com/littlejgl/demos/randommap/"
         href="randommap.jnlp">
     <information>
         <title>Random Map</title>
